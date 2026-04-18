@@ -310,7 +310,6 @@ h1 {
 
   .feature-row {
     max-width: 320px;
-    grid-template-columns: 1fr;
     gap: 10px;
   }
 
